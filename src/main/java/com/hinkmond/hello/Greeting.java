@@ -20,5 +20,5 @@ public class Greeting {
         return instanceContent;
     }
 
-    public String getGreetingMessage() { return greetingMessage;}
+    public String getGreetingMessage() { return greetingMessage + "  hi";}
 }
